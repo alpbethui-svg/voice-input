@@ -11,7 +11,7 @@
 
 普通用户不用装 Python，直接去右侧 **Releases** 下载安装包：
 
-- `输入助手-Setup.exe`
+- `InputHelper-Setup.exe`
 
 安装后开始菜单里会有两个入口：
 
